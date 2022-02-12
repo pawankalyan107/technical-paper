@@ -1,4 +1,4 @@
-# APACHE SNOWFLAKES
+# APACHE SNOWFLAKE
 
 ## Abstract
 
